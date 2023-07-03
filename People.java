@@ -179,9 +179,5 @@ public class People {
 
 			}
 		}
-		 //main
-	    public static void main(String[] args) {
-	    	  People pp = new People();
-	    	  pp.outputMonitor();
-	    }
+		
 }
